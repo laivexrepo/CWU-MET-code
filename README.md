@@ -15,3 +15,5 @@ tankDrive.v5blocks              -- sample program to operate the robot in tankdr
 Competition Template Sample programs:
 
 COMPtemplate01.v5blocks         -- Sample setup of the competition template for the robot
+COMPtemplate02.v5blocks         -- Sample setup of the competition template using Drivebase Object and Gyro for precise turning
+
