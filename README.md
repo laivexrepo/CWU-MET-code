@@ -20,7 +20,7 @@ This repository contains sample programs for the CWU MET courses and CWU MET Hig
 
 **myBlocks (function or reusable code):**
 
--- MyBlockExample.v5blocks        -- Sample demonstarting using a myBlock to claculate motor degrees to spin based on a given distance to drive
--- MyBlockExampleTEST.V5blocks    -- Sample demo program showing the interaction between mian code blocks and myBlock code and passing and return variables
+- MyBlockExample.v5blocks        -- Sample demonstarting using a myBlock to claculate motor degrees to spin based on a given distance to drive
+- MyBlockExampleTEST.V5blocks    -- Sample demo program showing the interaction between mian code blocks and myBlock code and passing and return variables
 
 
