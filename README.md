@@ -16,4 +16,11 @@ This repository contains sample programs for the CWU MET courses and CWU MET Hig
 
 - COMPtemplate01.v5blocks         -- Sample setup of the competition template for the robot
 - COMPtemplate02.v5blocks         -- Sample setup of the competition template using Drivebase Object and Gyro for precise turning
+- COMPtemplate03.v5blocks         -- Sampel demonstrating how to test code without competition switch or tournament management system
+
+**myBlocks (function or reusable code):**
+
+- MyBlockExample.v5blocks        -- Sample demonstarting using a myBlock to claculate motor degrees to spin based on a given distance to drive
+- MyBlockExampleTEST.V5blocks    -- Sample demo program showing the interaction between mian code blocks and myBlock code and passing and return variables
+
 
