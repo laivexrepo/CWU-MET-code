@@ -4,7 +4,7 @@ This repository contains sample programs for the CWU MET courses and CWU MET Hig
 
 **Deviation Sample Programs:**
 
-- AdvDevaitionMotorGroup.v5blocks	-- deviation test code with rampUp/rampDown functionality for motor group chassis
+- AdvDeviationMotorGroup.v5blocks	-- deviation test code with rampUp/rampDown functionality for motor group chassis
 - AdvDeviationTwoMotor.v5blocks		-- deviation test code with rampUp/rampDown functionality for 2 motor chassis
 
 - deviationDrivetrain.v5blocks    -- drivetrain object based single motor sample test project
