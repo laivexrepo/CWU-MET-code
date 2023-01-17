@@ -27,6 +27,9 @@ This repository contains sample programs for the CWU MET courses and CWU MET Hig
 - COMPtemplate04.v5blocks	  -- Sample demonstrating how to test code without competition switch, two motor drivetrain object
 - COMPtemplate05.v5blocks	  -- Sample demonstrating how to test code without competition switch, two motor (or Motor group), speed scaling and element manipulator control (grabber)
 
+- COMPauto01.v5blocks		  -- Sample code with competition template setup for autonomous using drive base object - no driver control
+- COMPdriver01.v5blocks		  -- Sample code with competition template setup for driver control using motor/motorgroup object - no autonomous
+
 **myBlocks (function or reusable code):**
 
 - MyBlockExample.v5blocks        -- Sample demonstrating using a myBlock to calculate motor degrees to spin based on a given distance to drive
